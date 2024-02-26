@@ -1,0 +1,51 @@
+{
+  "Pruducts": [
+    {
+      "id": "2",
+      "name": "Product 222",
+      "price": 200,
+      "quantity": 20,
+      "category": "Electronics"
+    },
+    {
+      "id": "3",
+      "name": "Product 3",
+      "price": 300,
+      "quantity": 30,
+      "category": "Clothes",
+      "maxQuantity": 30
+    },
+    {
+      "id": "4",
+      "name": "Product 4",
+      "price": 400,
+      "quantity": 40,
+      "category": "Clothes",
+      "maxQuantity": 40
+    },
+    {
+      "id": "5",
+      "name": "Product 5",
+      "price": 400,
+      "quantity": 40,
+      "category": "Glasses",
+      "maxQuantity": 40
+    },
+    {
+      "id": "6",
+      "name": "Product 6",
+      "price": 400,
+      "quantity": 40,
+      "category": "Glasses",
+      "maxQuantity": 40
+    },
+    {
+      "id": "2",
+      "name": "chair",
+      "price": 1234,
+      "quantity": 1223,
+      "category": "Furniture",
+      "maxQuantity": 11
+    }
+  ]
+}
